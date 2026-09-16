@@ -1,4 +1,4 @@
-# 42 Discovery Piscine Rush
+# 42 Discovery Piscine Rush Project
 
 A small team portfolio website created for the 42 Discovery Piscine rush project.
 
@@ -11,57 +11,30 @@ The project presents a team directory and an individual profile page with inform
 
 ## Features
 
-- Responsive layout for desktop and mobile
-- Team member profile cards
-- Personal profile and professional summary
-- Skills, work experience, and accomplishments sections
-- Contact links for email, GitHub, and Instagram
-- Inline SVG icons
-- Google Fonts integration
-- Tailwind CSS utility classes via CDN
+- A Navigation bar with links to the various sections of the page.
+- Section introduces. Include your name, a photo ,or image of yourself, and some interesting information about your background, education, or personal interests.
+- Showcase section to highlight your qualifications, which may include professional experiences, skills, or other relevant accomplishments. 
+- Contact section where you provide links to your social networks or professional profiles.
 
 ## Project Structure
 
 ```text
-rush/
+rush_project/
 ├── index.html       # Team directory
 ├── tonukung.html    # Personal portfolio page
 └── README.md        # Project documentation
 ```
 
-## Getting Started
-
-This is a static website and does not require a build step.
-
-### Option 1: Open directly
-
-Open `index.html` in a web browser.
-
-### Option 2: Run a local server
-
-From the project directory, run:
-
-```bash
-python3 -m http.server 8000
-```
-
-Then open [http://localhost:8000](http://localhost:8000) in your browser.
-
 ## Technologies
 
 - HTML5
 - Tailwind CSS
-- SVG
-- Google Fonts
 
 ## Notes
 
 The website loads Tailwind CSS, Google Fonts, profile images, and background images from external URLs, so an internet connection is recommended for the complete visual experience.
 
-## Author
-
-**Patchara Kongaum**
-
-- GitHub: [Tonukung](https://github.com/Tonukung)
-- Instagram: [@pk._tonukung](https://www.instagram.com/pk._tonukung/)
-- Email: [68070119@kmitl.ac.th](mailto:68070119@kmitl.ac.th)
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
