@@ -1,4 +1,4 @@
-# 42 Discovery Piscine Rush Project
+# 42 Bangkok Discovery Piscine Rush Project
 
 A small team portfolio website created for the 42 Discovery Piscine rush project.
 
