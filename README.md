@@ -22,7 +22,8 @@ The project presents a team directory and an individual profile page with inform
 ```text
 rush_project/
 ├── index.html       # Team directory
-├── tonukung.html    # Personal portfolio page
+├── tonukung.html    # Patchara Kongaum portfolio page
+├── takkub.html      # Phachthanasorn Peerawatkul portfolio page
 └── README.md        # Project documentation
 ```
 
