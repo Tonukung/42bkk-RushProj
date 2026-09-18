@@ -8,6 +8,7 @@ The project presents a team directory and an individual profile page with inform
 
 - `index.html` - Team portfolio landing page
 - `tonukung.html` - Patchara Kongaum profile page
+- `takkub.html` - Phachthanasorn Peerawatkul profile page
 
 ## Features
 
